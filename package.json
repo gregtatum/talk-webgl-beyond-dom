@@ -1,0 +1,16 @@
+{
+  "name": "talk-beyond-the-dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gl-mat4": "1.1.4",
+    "glslify": "6.0.1",
+    "regl": "^1.3.0"
+  }
+}
