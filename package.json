@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "budo --host=localhost example.js"
+    "start": "budo --host=localhost example.js --live",
+    "start-complete": "budo --host=localhost example-complete.js --live"
   },
   "author": "",
   "license": "ISC",
